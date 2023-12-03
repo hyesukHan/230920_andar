@@ -129,7 +129,6 @@
 .sc-best .btn-view-all span:nth-child(2):after{
     content: url(../images/arrow_right.png);
     vertical-align: text-top;
-    transform: translateY(1px);
 }
 
 .sc-coupon{
