@@ -176,7 +176,7 @@
     background-image: url(../images/icon_move.png);
     background-repeat: no-repeat;
     background-size: 15px auto;
-    background-position: calc(100% - 18px) center;
+    background-position: calc(100% - 18px) 13px;
 }
 .sc-exhibition .content-wrap{
     padding: 0 16px;
