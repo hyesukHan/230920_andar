@@ -250,11 +250,11 @@
 }
 .sc-new .btn-view-all{
     display: block;
-    width: 100%;
+    width: calc(100% - 32px);
+    margin: 0 auto;
     height: 52px;
     line-height: 52px;
     border: 1px solid #e0e0e0;
-    box-sizing: border-box;
     background: #fff;
     font-size: 15px;
     color: #222;
